@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Practices
+﻿namespace Practices
 {
     class Program
     {
